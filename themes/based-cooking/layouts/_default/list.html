@@ -1,0 +1,42 @@
+{{ partial "header.html" . }}
+
+{{if .IsHome }}
+<p id="all-tags">
+  Tags:
+  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+    <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }},</a>
+  {{ end }}
+</p>
+<p id="all-categories">
+  Categories:
+  {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+    <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }},</a>
+  {{ end }}
+</p>
+{{end}}
+
+<div class="content-wrapper">
+{{if not .IsHome }}
+<div class="banner">
+  <h1>🍲 Cooking Recipes 🍳</h1>
+    <hr/>
+</div>
+<i>Filtering recipes tagged:</i> <b>{{ .Title | markdownify }}</b> 
+  {{ end }}
+  {{ .Content }}
+<h2>Recipes</h2> 
+  <ul>
+     {{ $pages := .Pages }}
+     {{ if .IsHome }}
+     {{ $pages = .Site.RegularPages }}
+     {{ end }}
+     {{ range (where $pages "Section" "!=" "") }}
+     <li>
+       <!-- <span class="date">{{ .Date.Format "2006/01/02" }}</span> -->
+       <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+     </li>
+     {{ end }}
+   </ul>
+   
+</div>
+{{ partial "footer.html" . }}

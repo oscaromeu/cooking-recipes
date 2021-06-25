@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<div class="content-wrapper">
+  <main>
+{{ if .Params.toc }}
+{{ .TableOfContents }}
+{{ end }}
+    {{ .Content }}
+<p class="terms">
+  {{ range $i := (slice "categories" "tags") }}
+  {{ with ($.Param $i) }}
+  {{ $i | title }}: {{ range $k := . }}<a href="{{ relURL (print "/" $i "/" $k | urlize) }}">{{$k}}</a> {{ end }}
+  <br>
+  {{ end }}
+  {{ end }}
+</p>
+  </main>
+</div>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,26 @@
+<!-- https://www.client9.com/using-font-awesome-icons-in-hugo/
+{{ "" | safeHTML}}
+    <footer id="footer">
+        <div class="inner">
+            <ul class="icons">
+                {{ range .Site.Params.Footer.social }}
+                  <a href="{{ .url | safeHTML }}" class="icon alt {{ .icon }}" target="_blank"><span class="label">{{ .label }}</span></a>
+                {{ end }}
+            </ul>
+        </div>
+    </footer>
+-->
+
+<footer>
+    <hr/>
+<!-- 
+    <a href=".">homepage</a>
+    <a href="./rss.xml">RSS</a>
+    <a href="./atom.xml">atom</a>
+    <br>
+-->
+    <a href="/"> 🌿 Home</a>
+    <p>All site content is in the Public Domain.</p>
+    <p><small>Powered by <a href="https://gohugo.io/">Hugo</a></small></p>
+    
+</footer>

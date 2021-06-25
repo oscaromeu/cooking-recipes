@@ -1,0 +1,45 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Classic"
+theme = "based-cooking"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 1
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+[[menu.feed]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+
+
+[params]
+ 
+    [[params.contact.email]]
+    #title = "Email"
+    email = "mark.padgham@email.com"
+
+  # Footer section
+  [params.footer]
+    enable = true
+    
+    [[params.footer.social]]
+      icon = "fa-github"
+      url= "https://www.github.com/oscaromeu"
+      label = "GitHub"
+
+    #[[params.footer.social]]
+    #  icon = "fa-linkedin"
+    #  url= "https://www.linkedin.com"
+    #  label = "LinkedIn"
