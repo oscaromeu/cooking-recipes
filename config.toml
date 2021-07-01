@@ -1,4 +1,4 @@
-baseurl = "http://oscaromeu.io"
+baseurl = "https://oscaromeu.io/cooking-recipes"
 languageCode = "en-us"
 title = "Classic"
 theme = "based-cooking"
