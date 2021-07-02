@@ -8,7 +8,7 @@ tags:
   - lunch 
   - rice 
 
-#  
+---
 
 {{< postimage "images/arros_muntanya_xai_verdures.png" "" >}}
 

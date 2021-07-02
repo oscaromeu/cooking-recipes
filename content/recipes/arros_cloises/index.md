@@ -1,5 +1,5 @@
 ---
-title: "Arròs amb conill"
+title: "Arròs amb cloïses"
 date: 2020-01-01T12:40:44-05:00
 draft: true 
 categories: 
@@ -7,10 +7,10 @@ categories:
 tags: 
   - lunch 
   - rice 
-
+---
 #  
 
-{{< postimage "images/arros_amb_conill.png" "" >}}
+{{< postimage "images/arros_cloises.png" "" >}}
 
 
 - ⏲️  Temps de preparació: 1 hora 
@@ -19,36 +19,31 @@ tags:
 
 ## Ingredients
 
-- 300 g d’arròs bomba
-- 5 brins de safrà
-
-**PER AL BROU**
-- 500 ml d’aigua mineral
-- Uns branquillons de romaní i de farigola fresca
-2 nyores
-
-**PER AL SOFREGIT**
-- 2 grans d’all
-- 1 pebrot verd
-- 1 conill tallat a vuitens
-- 1 tomàquet
-- 40 ml d’oli d’oliva
+- 400 g de cloïsses
+- 1 sípia
+- 1 gra d' all
+- ½ pebrot vermell
+- 1 pebrot verd italià
+- 2 tomàquets
+- Aigua embotellada
+- 320 g d' arròs
+- 1 l de brou de peix
+- 3 cullerades d' oli d'oliva
+- Uns brins de safrà
 - Sal i pebre
-
-
 
 ## Preparació
 
-1. Omple la cassola amb 500 ml d’aigua, incorpora-hi les branques de romaní i farigola ben netes i deixa-ho coure durant uns 15 minuts. Afegeix-hi les nyores. Cola-ho i reserva-ho. Retira la carn de les nyores amb compte i reserva-la.
+1. Posa en remull les cloïsses en aigua salada durant 1 hora. Escorre-les.
 
-2. Pela els grans d’all, pica’ls ben fins i reserva’ls. Renta el pebrot verd i pica’l també molt fi perquè es desfaci. Reserva’l. Amaneix el conill amb sal i pebre.
+2. Renta la sípia i talla-la a dauets. Pela el gra d’all i pica’l. Renta els pebrots i talla’ls a dauets petits. Renta els tomàquets i ratlla’ls.
 
-3. Posa l’oli d’oliva en una paella i incorpora-hi l’all picat, una mica de farigola i el conill trossejat. Deixa-ho al foc i vés remenant-ho fins que quedi enrossit per tots els costats, uns 15 minuts.
+3. Escalfa mig got d’aigua salada a un cassó i, quan arrenqui el bull, afegeix-hi les cloïsses. Tapa-ho i fes-ho coure durant 5 minuts. Escorre-ho. Reserva per separat el líquid de cocció i les cloïsses.
 
-4. Renta el tomàquet i posa’l en una olla amb aigua calenta durant un minut per poder pelar-lo bé. Tot seguit, pica’l i incorpora’l a la paella. Posa-hi també la carn de les nyores i el pebrot reservats i sofregeix-ho bé, juntament amb el conill. Remena-ho durant uns 5 minuts.
+4. Escalfa el brou de peix juntament amb el de cocció de les cloïsses.
 
-5. Torra lleugerament els brins de safrà.
+5. Escalfa una paella amb una cullerada d’oli d’oliva i sofregeix-hi la sípia durant 5 minuts. Retira-la i reserva-la. Afegeix-hi dues cullerades més d’oli i sofregeix l’all i els pebrots durant 5 minuts. Tot seguit, incorpora-hi el tomàquet i segueix sofregint. Remena-ho sovint durant 10 minuts aproximadament, fins que quedi ben reduït i l’oli se separi de la salsa.
 
-6. AIncorpora-hi l’arròs, remena-ho amb una cullera de fusta perquè es barregi bé amb el sofregit durant uns minuts. Tot seguit, aboca-hi el brou aromatitzat amb la farigola i el romaní reservat. Remena-ho bé i afegeix-hi el safrà.
+6. Afegeix-hi l’arròs i el safrà i segueix sofregint sense deixar de remenar durant 5 minuts. Tot seguit, incorpora-hi la sípia, les cloïsses i el brou de peix i de les cloïsses. Remena i deixa-ho coure uns 18 minuts sense tornar a remenar. Deixa-ho reposar 2 minuts i serveix-ho.
 
-7. Puja la intensitat del foc i fes-ho coure uns 15-20 minuts. A meitat de la cocció, baixa la intensitat del foc a la meitat. Si cal, afegeix-hi més brou. Deixa reposar l’arròs durant uns 3 minuts i ja el pots servir. 
+7. Opció econòmica: Si vols que aquest arròs et surti més barat però igualment deliciós, fes servir unes rossellones en comptes de les cloïsses.
