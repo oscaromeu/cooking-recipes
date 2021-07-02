@@ -1,7 +1,7 @@
 ---
 title: "Arròs de muntanya amb xai i verdures"
 date: 2020-01-01T12:40:44-05:00
-draft: true 
+draft: false 
 categories: 
   - dinner
 tags: 
