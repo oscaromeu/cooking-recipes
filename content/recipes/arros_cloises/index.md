@@ -8,7 +8,7 @@ tags:
   - lunch 
   - rice 
 ---
-#  
+#  Arròs amb cloïses
 
 {{< postimage "images/arros_cloises.png" "" >}}
 
