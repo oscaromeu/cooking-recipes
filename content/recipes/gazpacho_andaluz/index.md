@@ -3,11 +3,11 @@ title: "Gazpacho Andaluz"
 date: 2020-01-01T12:40:44-05:00
 draft: false 
 categories: 
-  - lunch 
-  - dinner 
+  - dinar 
 tags: 
   - gazpacho 
-  - summer 
+  - sopes
+  - estiu
 ---
 
 # Gazpacho tradicional andaluz 
@@ -17,8 +17,8 @@ tags:
 
 - ⏲️  Tiempo de preparación: 1 hora 
 - 🍳 Tiempo de cocinado: 1 hora 30 min 
-- 🍽️ Personas: 4       
-
+- 🍴 Persones: 4
+ 
 ## Ingredientes
 
 - 1/2 kilo de tomate maduro

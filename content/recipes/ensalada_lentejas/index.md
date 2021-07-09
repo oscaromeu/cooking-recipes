@@ -3,10 +3,10 @@ title: "Ensalada de Lentejas"
 date: 2020-01-01T12:40:44-05:00
 draft: false
 categories: 
-  - lunch
+  - dinar 
 tags: 
-  - legums
-  - summer
+  - llegums
+  - estiu 
 ---
 
 # Ensalada de lentejas
@@ -16,7 +16,7 @@ Un plato completo con legumbres, verdura y proteína.
 {{< postimage "images/ensalada_lentejas.jpg" "" >}}
 
 - 🍳 Tiempo de preparación: ~15 minutes
-- 🍽️  Personas: 4
+- 🍴 Persones: 4
 
 ## Ingredientes
 

@@ -3,10 +3,10 @@ title: "Ensalada de garbanzos y nueces"
 date: 2020-01-01T12:40:44-05:00
 draft: false
 categories: 
-  - lunch
+  - dinar 
 tags: 
-  - legums 
-  - summer
+  - llegums 
+  - estiu
 ---
 
 # Ensalada de garbanzos y nueces
@@ -16,7 +16,7 @@ Una ensalada completa de legumbres, fruta y frutos secos
 {{< postimage "images/ensalada_garbanzos.jpg" "" >}}
 
 - 🍳 Tiempo de preparación: ~15 minutes
-- 🍽️  Personas: 4
+- 🍴 Persones: 4
 
 ## Ingredientes
 

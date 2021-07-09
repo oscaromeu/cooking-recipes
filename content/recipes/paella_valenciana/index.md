@@ -3,10 +3,9 @@ title: "Paella Valenciana"
 #date: 2021-06-23T12:40:44-05:00
 draft: false
 categories: 
-  - dinner
+  - dinar
 tags: 
-  - lunch 
-  - rice 
+  - arros 
   - paella
 ---
 

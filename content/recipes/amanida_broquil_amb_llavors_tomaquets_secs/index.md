@@ -3,9 +3,9 @@ title: "Amanida de bròcoli amb llavors i tomàquets secs"
 date: 2020-01-01T12:40:44-05:00
 draft: false 
 categories: 
-  - lunch 
+  - dinar 
 tags: 
-  - salad 
+  - amanida 
 ---
 
 # Amanida de bròcoli amb llavors i tomàquets secs  
