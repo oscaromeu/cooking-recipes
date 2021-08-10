@@ -6,8 +6,9 @@ categories:
   - dinar
 tags: 
   - arros 
-
+tikz: true
 ---
+
 
 # Arròs amb conill
 

@@ -1,6 +1,5 @@
 ---
 title: "Gazpacho Andaluz"
-date: 2020-01-01T12:40:44-05:00
 draft: false 
 categories: 
   - dinar 
@@ -21,8 +20,8 @@ tags:
  
 ## Ingredientes
 
-- 1/2 kilo de tomate maduro
-- 1 diente de ajo
+- 3.5 tomates
+- 1/2 diente de ajo
 - 1 dl de aceite de oliva
 - 1 rebanada de pan blanco
 - 1/2 pimiento verde

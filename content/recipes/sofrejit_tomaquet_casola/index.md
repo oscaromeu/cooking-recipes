@@ -1,6 +1,5 @@
 ---
 title: "Sofrejit de tomàquet casolà"
-date: 2020-01-01T12:40:44-05:00
 draft: false 
 tags: 
   - salses 
