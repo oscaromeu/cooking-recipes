@@ -10,11 +10,9 @@ tags:
 
 # Ensalada de lentejas
 
-Un plato completo con legumbres, verdura y proteína.
-
 {{< postimage "images/ensalada_lentejas.jpg" "" >}}
 
-- 🍳 Tiempo de preparación: ~15 minutes
+- 🍳 Tiempo de preparación: ~15 minutos
 - 🍴 Persones: 4
 
 ## Ingredientes
@@ -31,7 +29,6 @@ Un plato completo con legumbres, verdura y proteína.
 - 10 aceitunas negras cortadas
 - 50 mililitros de aceite de oliva
 - 20 mililitros de vinagre de Módena
-- Feel free to vary these amounts, it's not like this is anything strict.
 
 ## Preparación 
 

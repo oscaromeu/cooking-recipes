@@ -1,7 +1,7 @@
 <!--
 -->
 {{ $image := $.Page.Resources.GetMatch (.Get 0)}}
-{{ $smallImage := $image.Fit "1200x800"  }}
+{{ $smallImage := $image.Resize "640x"  }}
 
 <figure class="post-figure">
   <a href="{{ $image.RelPermalink }}">
