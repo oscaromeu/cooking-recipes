@@ -1,7 +1,7 @@
 # 🍲 Cooking Recipes 🍳
 
-Minimal culinary website project heavily inspired by [based.cooking](https://www.based.cooking) 
-the main difference besides from the tools used is that this is for personal usage only. 
+Minimal culinary website project heavily inspired by [based.cooking](https://www.based.cooking). 
+The main difference besides from the tools used is that this is for personal usage only. 
 
 The idea is to have a place to store all my recipes and make easy to check them
 when I need them. Also, I liked the idea of having a culinary website without 
