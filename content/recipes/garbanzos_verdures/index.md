@@ -1,5 +1,5 @@
 ---
-title: "Garbanzos verdures"
+title: "Garbanzos con verduras"
 draft: false 
 categories: 
   - dinar 

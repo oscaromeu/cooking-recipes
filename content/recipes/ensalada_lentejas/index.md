@@ -1,5 +1,5 @@
 ---
-title: "Ensalada de Lentejas"
+title: "Ensalada de lentejas tradicional"
 draft: false
 categories: 
   - dinar 
@@ -8,7 +8,7 @@ tags:
   - estiu 
 ---
 
-# Ensalada de lentejas
+# Ensalada de lentejas tradicional
 
 {{< postimage "images/ensalada_lentejas.jpg" "" >}}
 
@@ -23,7 +23,7 @@ tags:
 - 1 cebolleta
 - 1 zanahoria
 - aceite de oliva
-- 40 gramos de atún
+- (opcional) 40 gramos de atún / bonito
 - perejil
 - 1 huevo cocido
 - 10 aceitunas negras cortadas
@@ -34,7 +34,7 @@ tags:
 
 1. Corta el pimiento rojo y el pimiento verde en dados pequeños. Pica la cebolleta, la zanahoria y el huevo cocido. 
 2. Para hacer la vinagreta mezcla en un bol sal, vinagre de Módena, aceite de oliva, perejil y remueve. 
-3. En otro bol añade los ingredientes picados: la cebolleta y la zanahoria, el pimiento verde y rojo, el huevo cocido. Agrega los 1 palitos de cangrejo, el atún y las aceitunas negras troceadas. Incorpora las lentejas cocidas y mezcla con una cuchara. 
+3. En otro bol añade los ingredientes picados: la cebolleta y la zanahoria, el pimiento verde y rojo, el huevo cocido. Agrega el atún y las aceitunas negras troceadas. Incorpora las lentejas cocidas y mezcla con una cuchara. 
 4. Aliña la ensalada con la vinagreta y remueve.
 5. Sirve la ensalada de lentejas, un plato con legumbres, verduras y proteína muy completo.
 
