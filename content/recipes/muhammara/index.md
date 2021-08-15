@@ -5,7 +5,7 @@ categories:
   - sopar
 tags: 
   - verdures
-  - pates
+  - paté
   - vegetaria
 ---
 
