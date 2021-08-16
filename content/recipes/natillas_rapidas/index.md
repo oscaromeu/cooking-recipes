@@ -2,7 +2,7 @@
 title: "Natillas rápidas de crema de cacahuete"
 draft: false 
 categories: 
-  - postre 
+  - postres 
 tags: 
   - capritxos 
 ---
