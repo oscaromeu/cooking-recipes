@@ -1,6 +1,6 @@
 ---
 title: "Ensalada de garbanzos y nueces"
-draft: false
+draft: true 
 categories: 
   - dinar 
 tags: 

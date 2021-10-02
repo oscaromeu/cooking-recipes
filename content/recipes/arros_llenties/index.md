@@ -1,6 +1,6 @@
 ---
 title: "Arroz con lentejas y verduras"
-draft: false
+draft: true 
 categories: 
   -  dinar
 tags: 

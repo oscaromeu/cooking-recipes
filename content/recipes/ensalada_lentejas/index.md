@@ -1,6 +1,6 @@
 ---
 title: "Ensalada de lentejas tradicional"
-draft: false
+draft: true 
 categories: 
   - dinar 
 tags: 

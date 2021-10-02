@@ -1,6 +1,6 @@
 ---
 title: "Smoothie bowl de albaricoque con muesli de frutos rojos"
-draft: false 
+draft: true 
 categories: 
   - esmorzar 
 tags: 

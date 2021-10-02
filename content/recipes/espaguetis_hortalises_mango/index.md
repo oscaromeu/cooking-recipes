@@ -1,6 +1,6 @@
 ---
 title: "Espaguetis d'hortalises amb salsa de mango"
-draft: false 
+draft: true 
 categories: 
   - dinar 
   - sopar

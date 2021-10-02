@@ -1,6 +1,6 @@
 ---
 title: "Ensalada de quinoa con alubias y maiz"
-draft: false 
+draft: true 
 categories: 
   - dinar 
 tags: 

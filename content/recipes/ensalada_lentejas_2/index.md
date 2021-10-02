@@ -1,6 +1,6 @@
 ---
 title: "Ensalada de lentejas y calabacín"
-draft: false 
+draft: true 
 categories: 
   - dinar 
 tags: 
