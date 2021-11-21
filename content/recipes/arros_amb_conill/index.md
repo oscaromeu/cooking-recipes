@@ -5,52 +5,66 @@ draft: false
 categories: 
   - dinar
 tags: 
-  - arros 
-tikz: true
+  - Arròs i cereals
+  - Carxofes
+  - Herbes, espècies, llavors i condiments
+  - Conill
+  - Mongetes
 ---
 
 
 # Arròs amb conill
 
-{{< postimage "images/arros_amb_conill.png" "" >}}
+{{< postimage "images/arros-amb-conill.png" "" >}}
 
 
 - ⏲️  Temps de preparació: 1 hora 
-- 🍳 Tiempo total: 1 hora 30 min 
+- 🍳 Temps total: menys d'una hora 
 - 🍴 Persones: 4
 
 ## Ingredients
 
-- 300 g d’arròs bomba
-- 5 brins de safrà
-
-**PER AL BROU**
-- 500 ml d’aigua mineral
-- Uns branquillons de romaní i de farigola fresca
-2 nyores
-
-**PER AL SOFREGIT**
-- 2 grans d’all
-- 1 pebrot verd
-- 1 conill tallat a vuitens
-- 1 tomàquet
-- 40 ml d’oli d’oliva
-- Sal i pebre
+- 1 conill
+- 1.150ml brou de porc desgreixat
+- 340g arròs Marisma
+- 250g carxofes
+- 125g mongeta tendra
+- 18 minisalsitxes
+- 1 grapat de tirabecs
+- Cabeça d'alls
+- Llorer
+- Cibulet
+- Safrà
+- Oli OVE
+- Sal
+- Pebre negre
 
 
 
 ## Preparació
 
-1. Omple la cassola amb 500 ml d’aigua, incorpora-hi les branques de romaní i farigola ben netes i deixa-ho coure durant uns 15 minuts. Afegeix-hi les nyores. Cola-ho i reserva-ho. Retira la carn de les nyores amb compte i reserva-la.
+1. Posem una cassola al foc amb oli OVE.
 
-2. Pela els grans d’all, pica’ls ben fins i reserva’ls. Renta el pebrot verd i pica’l també molt fi perquè es desfaci. Reserva’l. Amaneix el conill amb sal i pebre.
+2. Partim una cabeça d'alls pel mig i la refreguem per la cassola. Hi afegim una fulla de llorer.
 
-3. Posa l’oli d’oliva en una paella i incorpora-hi l’all picat, una mica de farigola i el conill trossejat. Deixa-ho al foc i vés remenant-ho fins que quedi enrossit per tots els costats, uns 15 minuts.
+3. Salpebrem el conill, que hem tallat a mida mossegada.
 
-4. Renta el tomàquet i posa’l en una olla amb aigua calenta durant un minut per poder pelar-lo bé. Tot seguit, pica’l i incorpora’l a la paella. Posa-hi també la carn de les nyores i el pebrot reservats i sofregeix-ho bé, juntament amb el conill. Remena-ho durant uns 5 minuts.
+4. Posem el conill a la cassola i l'enrossim per tots els costats.
 
-5. Torra lleugerament els brins de safrà.
+5. Mentrestant, escalfem 1.150 ml de brou de porc desgreixat.
 
-6. AIncorpora-hi l’arròs, remena-ho amb una cullera de fusta perquè es barregi bé amb el sofregit durant uns minuts. Tot seguit, aboca-hi el brou aromatitzat amb la farigola i el romaní reservat. Remena-ho bé i afegeix-hi el safrà.
+6. Quan el conill està mig enrossit, afegim 18 minisalsitxes a la cassola.
 
-7. Puja la intensitat del foc i fes-ho coure uns 15-20 minuts. A meitat de la cocció, baixa la intensitat del foc a la meitat. Si cal, afegeix-hi més brou. Deixa reposar l’arròs durant uns 3 minuts i ja el pots servir. 
+7. Preparem les verdures. Tallem 125 g de mongeta tendra neta sense les puntes a mida mossegada. Agafem 250 g de carxofes, les pelem i tallem els cors en 4 o 6 trossos traient-ne el borrissol.
+
+8. Quan el conill i les salsitxes estan enrossits,afegim les mongetes i les carxofes a la cassola. Ho aboquem un raig de vi ranci per aixecar sucres i posem el foc alt fins què s'evapori l'alcohol.
+
+9. Netegem i traiem el fil lateral d'un grapat de tirabecs i els afegim a la cassola.  
+
+10. Un cop evaporat l'alcohol, afegim uns brins de safrà a la cassola i 400 g d'arròs Marisma. Perlem l'arròs.
+
+11. Hi afegim sal i pebre negre. Remenem i aboquem el brou calent a la cassola. Coem amb la cassola mig tapada i fent xup-xup durant 12 minuts. Anem afegint una mica d'aigua si veiem que l'arròs està quedant massa sec.
+
+12. Passats els 12 minuts, tanquem el foc i deixem reposar l'arròs un parell de minuts destapat afegint-hi un raig d'oli OVE. Aprofitem per picar una mica de cibulet.
+
+13. Emplatem l'arròs amb conill posant al damunt una mica de cibulet picat.
