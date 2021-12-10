@@ -19,12 +19,13 @@ tags:
 
 - 400 g de cloïsses
 - 1 sípia
+- 1 ceba de figueres
 - 1 gra d' all
-- ½ pebrot vermell
+- 1 tira de pebrot vermell
 - 1 pebrot verd italià
-- 2 tomàquets
-- Aigua embotellada
-- 320 g d' arròs
+- 3 tomacons
+- 500 ml Aigua embotellada
+- 300 g d' arròs
 - 1 l de brou de peix
 - 3 cullerades d' oli d'oliva
 - Uns brins de safrà
