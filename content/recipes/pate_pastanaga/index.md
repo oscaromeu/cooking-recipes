@@ -4,8 +4,8 @@ draft: false
 categories: 
   - sopar 
 tags: 
-  - verdura
   - paté
+  - vegà
 ---
 
 # Paté de pastanaga

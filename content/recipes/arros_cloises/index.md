@@ -4,7 +4,8 @@ draft: false
 categories: 
   - dinar
 tags: 
-  - arros 
+  - arròs bomba
+  - cloïses 
 ---
 #  Arròs amb cloïses
 

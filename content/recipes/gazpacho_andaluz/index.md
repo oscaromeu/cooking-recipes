@@ -4,9 +4,8 @@ draft: false
 categories: 
   - dinar 
 tags: 
-  - gazpacho 
-  - sopes
-  - estiu
+  - sopa
+  - gazpacho
 ---
 
 # Gazpacho tradicional andaluz 

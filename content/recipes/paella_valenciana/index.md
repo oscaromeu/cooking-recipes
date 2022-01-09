@@ -1,10 +1,10 @@
 ---
 title: "Paella Valenciana"
-draft: false
+draft: true
 categories: 
   - dinar
 tags: 
-  - arros 
+  - arròs bomba
   - paella
 ---
 

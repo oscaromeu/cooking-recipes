@@ -4,8 +4,8 @@ draft: false
 categories: 
   - sopar 
 tags: 
-  - pa 
-  - paté
+  - galetes
+  - salats
 ---
 
 # Crackers 

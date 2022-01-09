@@ -4,9 +4,8 @@ draft: false
 categories: 
   - sopar
 tags: 
-  - verdures
-  - pate
-  - vegetaria
+  - vegà
+  - paté
 ---
 
 # Muhammara

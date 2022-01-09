@@ -4,7 +4,8 @@ draft: false
 categories: 
   - dinar 
 tags: 
-  - burgers 
+  - hamburguesa
+  - vegà
 ---
 
 # Mini burgers de portobello y remolacha 

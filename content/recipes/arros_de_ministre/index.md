@@ -4,7 +4,11 @@ draft: false
 categories: 
   - dinar 
 tags: 
-  - arròs 
+  - arròs bomba
+  - pollastre
+  - conill
+  - porc
+  - sèpia
 ---
 
 # Arròs de ministre 

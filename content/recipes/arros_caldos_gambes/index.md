@@ -4,8 +4,8 @@ draft: false
 categories: 
   - dinar 
 tags: 
-  - Arròs bomba
-  - Gamba vermella
+  - arròs bomba
+  - gamba vermella
 ---
 
 # Arròs caldos de gambes 

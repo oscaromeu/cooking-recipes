@@ -5,8 +5,7 @@ categories:
   - sopar 
 tags: 
   - paté
-  - verdura
-  - llegums
+  - vegà
 ---
 
 # Paté de carbassó 
