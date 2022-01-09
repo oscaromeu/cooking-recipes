@@ -1,6 +1,6 @@
 ---
 title: "Truita Oberta de Carxofes"
-draft: false 
+draft: true 
 categories: 
   - Sopar
 tags: 
